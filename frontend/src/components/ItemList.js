@@ -21,7 +21,7 @@ const ItemList = (props) => {
             </div>
           );
         })}
-      </div>
+      </div>s
 
       <ListPagination
         pager={props.pager}
